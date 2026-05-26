@@ -5,7 +5,7 @@
 ## Use
 
 ```sh
-brew tap struis112/tap
+brew tap struisict/tap
 
 # CLI tool (macOS + Linux)
 brew install smtp-test-tool
@@ -30,7 +30,7 @@ Casks are macOS-only.
 
 | Cask | Source repo | License |
 |------|-------------|---------|
-| [`inlook`](Casks/inlook.rb) | [Struis112/InLook](https://github.com/Struis112/InLook) | MIT OR Apache-2.0 |
+| [`inlook`](Casks/inlook.rb) | [StruisICT/InLook](https://github.com/StruisICT/InLook) | MIT OR Apache-2.0 |
 
 ## How updates happen
 
