@@ -24,7 +24,7 @@ Casks are macOS-only.
 
 | Formula | Source repo | License |
 |---------|-------------|---------|
-| [`smtp-test-tool`](Formula/smtp-test-tool.rb) | [Struis112/smtp-test-tool](https://github.com/Struis112/smtp-test-tool) | MIT OR Apache-2.0 |
+| [`smtp-test-tool`](Formula/smtp-test-tool.rb) | [StruisICT/smtp-test-tool](https://github.com/StruisICT/smtp-test-tool) | MIT OR Apache-2.0 |
 
 ## Casks
 
